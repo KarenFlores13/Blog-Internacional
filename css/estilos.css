@@ -2,6 +2,7 @@ body {
     text-align: center;
     color: rgb(87, 14, 87);
     font-family: "Arial";
+    background: rgb(180, 97, 97);
 
 }
 
@@ -12,6 +13,12 @@ body {
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -26,7 +33,7 @@ body {
     border: 1px solid ;
     width: 70%;
     margin: 0 auto;
-    padding: 1em;
+    padding: 0;
     text-align: left;
 }
 
@@ -38,6 +45,7 @@ body {
 #post 
 {
     padding: 1em;
+   background: white;
 }
 
 #post h3, h2 {
