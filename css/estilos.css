@@ -52,3 +52,10 @@ body {
     text-align: center;
 }
 
+#footer {
+    background: rgb(107, 107, 175);
+    padding: 00.5em;
+    color: white;
+    text-align: center;
+    
+}
